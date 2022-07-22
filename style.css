@@ -61,3 +61,7 @@ textarea{
     font-family:'Kanit';
     padding:0.3rem 0.5rem;
 }
+.copy{
+    width:100%;
+    margin-top:1.5rem;
+}
